@@ -1,0 +1,15 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"POWER.C": "cpp",
+			"stdio.h": "c",
+			"1TON.C": "cpp",
+			"6.C": "cpp",
+			"1tonSUM.C": "cpp",
+			"matrixADDITION.C": "cpp",
+			"PRACTICE.C": "cpp"
+		},
+		"liveServer.settings.port": 5501
+	}
+}
